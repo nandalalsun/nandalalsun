@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nandalalsun
-- 👀 I’m interested Object Oriented Programming
+- 👀 I’m interested in Object Oriented Programming
 - 🌱 I’m currently learning PHP API Development
 - 📫 How to reach me ...
 
